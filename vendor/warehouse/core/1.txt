@@ -1,0 +1,79 @@
+
+"channel_post":{"message_id":634,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653668,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u0413\u0440\u043e\u0437\u0443 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u043c\u0430\u044f\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347653,
+"channel_post":{"message_id":635,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653855,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u041b\u0435\u043d\u0443 \u0413\u0443\u0442\u043e\u0440\u043e\u0432\u0430\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347654,
+"channel_post":{"message_id":636,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653910,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u041d\u0430\u0441\u0442\u044e\u0448\u043a\u0443 \u0422\u043e\u043a\u0430\u0440\u0435\u0432\u0443\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347655,
+"channel_post":{"message_id":637,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653948,"poll":{"id":"5420424533448329041","question":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0430\u0434\u043c\u0438\u043d\u0430?","options":[{"text":"\u0414\u0430","voter_count":0},{"text":"\u041d\u0435","voter_count":0}],"total_voter_count":0,"is_closed":false,"is_anonymous":true,"type":"regular","allows_multiple_answers":false}}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347656,
+"channel_post":{"message_id":638,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653974,"text":"\u0412\u043e \u0431\u043b\u0438\u043d 62"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347657,
+"channel_post":{"message_id":639,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654002,"reply_to_message":{"message_id":637,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709653948,"edit_date":1709653963,"poll":{"id":"5420424533448329041","question":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0430\u0434\u043c\u0438\u043d\u0430?","options":[{"text":"\u0414\u0430","voter_count":0},{"text":"\u041d\u0435","voter_count":0}],"total_voter_count":3,"is_closed":false,"is_anonymous":true,"type":"regular","allows_multiple_answers":false}},"text":"\u041a\u043e\u0433\u043e?"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347658,
+"channel_post":{"message_id":640,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654006,"text":"\u041a\u0442\u043e \u0445\u043e\u0447\u0435\u0442"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347659,
+"channel_post":{"message_id":641,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654213,"text":"\u0420\u0435\u0431\u044f\u0442\u0430 \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442? !"}}
+SERVER[REMOTE_ADDR] = 46.163.142.23
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347660,
+"channel_post":{"message_id":642,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654392,"text":"\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u0442\u043e\u043c \u043d\u0430 \u0440\u0430\u043d\u0434\u043e\u043c \u0432\u044b\u0431\u0435\u0440\u0443"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347661,
+"channel_post":{"message_id":643,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654476,"text":"2 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0432 \u043d\u043e\u043c\u0438\u043d\u0430\u0446\u0438\u0438"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347662,
+"channel_post":{"message_id":644,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709654657,"text":"\u041a\u0442\u043e \u0435\u0449\u0451?"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347663,
+"channel_post":{"message_id":645,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655197,"text":"\u0420\u0435\u0431\u044f\u0442\u0430 \u043c\u043d\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043d\u0430\u0434\u043e \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u0438\u0437 \u043a\u0430\u043d\u0430\u043b\u0430! \u041c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0442\u043e\u043c \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347664,
+"channel_post":{"message_id":646,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655287,"text":"\u0429\u0430\u0441 \u0440\u0435\u0448\u0438\u043c \u043a\u043e\u0433\u043e \u0432 \u0430\u0434\u043c\u0438\u043d\u044b \u043d\u043e \u0432 \u0430\u043f\u0440\u0435\u043b\u0435  \u0435\u0449\u0451 \u043d\u0430\u0431\u043e\u0440 \u0432 \u0430\u0434\u043c\u0438\u043d\u044b \u0431\u0443\u0434\u0435\u0442!"}}
+SERVER[REMOTE_ADDR] = 46.163.142.23
+SERVER[REMOTE_ADDR] = 46.163.142.23
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347665,
+"channel_post":{"message_id":647,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655720,"poll":{"id":"5420424533448329050","question":"\u041a\u0442\u043e \u043d\u043e\u0432\u044b\u0439 \u0430\u0434\u043c\u0438\u043d?","options":[{"text":"\u0414\u0430\u0448\u0443\u043b\u044f","voter_count":0},{"text":"\u0414\u0435\u0432\u043e\u0447\u043a\u0430","voter_count":0}],"total_voter_count":0,"is_closed":false,"is_anonymous":true,"type":"regular","allows_multiple_answers":false}}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347666,
+"channel_post":{"message_id":648,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655840,"text":"\u0414\u0430\u0448\u0443\u043b\u044f \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u044f\u044e\ud83c\udf89\ud83c\udf8a"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347667,
+"channel_post":{"message_id":649,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655910,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u042d\u043c\u0438\u043b\u0438)\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347668,
+"channel_post":{"message_id":650,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655913,"text":"\u0427\u0430\u0433\u043e"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347669,
+"channel_post":{"message_id":651,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655931,"text":"\u0414\u0435\u0432\u043e\u0447\u043a\u0443 \u044d\u0442\u0443 \u0442\u0430\u043a \u0437\u043e\u0432\u0443\u0442 \u0442\u0438\u043f?"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347670,
+"channel_post":{"message_id":652,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655991,"text":"\u042f \u0442\u0435\u043f\u0435\u0440\u044c \u0430\u0434\u043c\u0438\u043d\ud83d\udc8b"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347671,
+"channel_post":{"message_id":653,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709656521,"reply_to_message":{"message_id":652,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709655991,"edit_date":1709655994,"text":"\u042f \u0442\u0435\u043f\u0435\u0440\u044c \u0430\u0434\u043c\u0438\u043d\ud83d\udc8b"},"text":"\u0414\u0430\u0430\u0430"}}
+SERVER[REMOTE_ADDR] = 46.163.142.23
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347672,
+"channel_post":{"message_id":654,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709656939,"text":"\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0430\u043d\u043e\u043d\u0438\u043c\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441!\n\n\ud83d\udc49 t.me/anonimnyye_voprosy_bot?start=G2FbUn\n\n\u0420\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u0435 \u044d\u0442\u0443 \u0441\u0441\u044b\u043b\u043a\u0443 \u261d\ufe0f \u0432 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u0440\u043e\u0444\u0438\u043b\u044f Telegram, TikTok, Instagram (stories), \u0447\u0442\u043e\u0431\u044b \u0432\u0430\u043c \u043c\u043e\u0433\u043b\u0438 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \ud83d\udcac","entities":[{"offset":53,"length":40,"type":"url"}],"link_preview_options":{"url":"http://t.me/anonimnyye_voprosy_bot?start=G2FbUn","prefer_small_media":true}}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347673,
+"channel_post":{"message_id":655,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709656942,"text":"\u041d\u0430\u043f\u043e\u043c\u043d\u044e"}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347674,
+"channel_post":{"message_id":656,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709657250,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u041f\u043e\u0441\u0435\u043b\u043e\u043a \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0433\u043e \u0442\u0438\u043f\u0430 \u0411\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u0447\u043a\u0430\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347675,
+"channel_post":{"message_id":657,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709657396,"text":"\ud83d\udd14 \u0423 \u0442\u0435\u0431\u044f \u043d\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435!\n\n\u0413\u0440\u0435\u0447\u043a\u0443 \u0441 \u043a\u0443\u0440\u0438\u0446\u0435\u0439\n\n\u21a9\ufe0f \u0421\u0432\u0430\u0439\u043f\u043d\u0438 \u0434\u043b\u044f \u043e\u0442\u0432\u0435\u0442\u0430."}}
+SERVER[REMOTE_ADDR] = 91.108.6.98
+temp = {"update_id":744347676,
+"channel_post":{"message_id":658,"sender_chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"chat":{"id":-1002072882186,"title":"\u041b\u044e\u0431\u043b\u044e","username":"lov_10","type":"channel"},"date":1709657404,"text":"\u0410\u0445\u0430\u0445\u0430"}}
+SERVER[REMOTE_ADDR] = 46.163.142.23
